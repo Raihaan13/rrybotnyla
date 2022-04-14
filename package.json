@@ -17,16 +17,16 @@
   "keywords": [
     "botwea"
   ],
-  "homepage": "https://github.com/ItzLighting9332/nayla",
+  "homepage": "https://github.com/Raihaan13/Rey",
   "author": {
-    "name": "ItzLighting9332"
+    "name": "Raihaan13/RRY-BOT"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ItzLighting9332/nayla.git"
+    "url": "git+https://github.com/Raihaan13/Rey"
   },
   "bugs": {
-    "url": "https://github.com/ItzLighting9332/nayla/issues"
+    "url": "https://github.com/Raihaan13/Rey"
   },
   "license": "GPL-3.0-or-later",
   "dependencies": {
